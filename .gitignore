@@ -36,3 +36,17 @@ Thumbs.db
 # Folders to ignore
 bower_components
 node_modules
+
+# Window
+Thumbs.db
+ehtumbs.db
+Desktop.ini
+
+# Python
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
